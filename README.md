@@ -12,7 +12,7 @@ Understanding some concepts related to Computer Science and Data Science. Implem
 - *Numerical Methods*
   - **Lagrange Interpolation**:      Gives the lagrange formula, makes calculations at a specific point.
   - **Divided Differences Table**:   Gives Divided Differences Table based on x and y values.
-  - **Bisection**:                   Bisection approach root finder
+  - **Bisection**:                   Finding fifth root of the given number with bisection approach
   - **Rational Binary**:             Integer-Binary conversions but rational numbers are supported.
   - **Secant-Newton Method**:        Secant and Newton methods
   
